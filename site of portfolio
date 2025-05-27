@@ -1,0 +1,87 @@
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title> SUMITRA PYAKUREL | Portfolio</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background: #4a90e2;
+      color: #fff;
+      padding: 2rem;
+      text-align: center;
+    }
+    section {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    .section-title {
+      font-size: 1.5rem;
+      margin-bottom: 1rem;
+      color: #4a90e2;
+    }
+    footer {
+      background: #333;
+      color: #fff;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+    a {
+      color: #4a90e2;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>sumitra pyakurel</h1>
+    <p>Aspiring Computer Science Student | Problem Solver | Tech Enthusiast</p>
+  </header>
+
+  <section>
+    <div class="section-title">About Me</div>
+    <p>
+      I am a computer science enthusiast passionate about solving real-world problems through technology. I have experience in data management, quality assurance, and application troubleshooting from my internship at a Nepal-based IT company. I enjoy coding and building projects that make a difference.Also worked as an research assistant, Assisted in data organisation and research support tasks during AI research Assistant internship,  gaining exposure to real AI project work flows.
+    </p>
+  </section>
+
+  <section>
+    <div class="section-title">Skills</div>
+    <ul>
+      <li>HTML, CSS, JavaScript</li>
+      <li>Python, Java</li>
+      <li>Git & GitHub</li>
+      <li>Data Analysis</li>
+      <li>Problem Solving</li>
+    </ul>
+  </section>
+
+  <section>
+    <div class="section-title">Projects</div>
+    <ul>
+      <li><strong>Student Support App</strong> – Helped troubleshoot and test an educational app used across Nepal.</li>
+      <li><strong>Personal Website</strong> – This portfolio website showcasing my skills and background.</li>
+    </ul>
+  </section>
+
+  <section>
+    <div class="section-title">Contact</div>
+    <p>Email: pyakirelsumitra30@gmail.com</p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile">linkedin.com/in/yourprofile</a></p>
+  </section>
+
+  <footer>
+    &copy; 2025. All rights reserved.
+  </footer>
+</body>
+</html>
